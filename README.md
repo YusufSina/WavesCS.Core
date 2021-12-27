@@ -1,0 +1,2 @@
+# WavesCS.Core
+A C# .Net Core library for interacting with the Waves Blockchain. This repository is forked from wavesplatform/WavesCS and runs with .Net Core applications. See [it](https://github.com/wavesplatform/WavesCS) for more information about WavesCS.
